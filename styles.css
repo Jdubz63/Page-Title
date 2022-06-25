@@ -1,0 +1,72 @@
+body {
+    background: url("https://d3i71xaburhd42.cloudfront.net/8164a3a07f0742df05fbc93713ebfe0bc371cb02/3-Figure1-1.png");
+}
+
+.button1 {
+    width: 50px;
+    height: 40px;
+    color: black;
+    background-color: black;
+
+}
+
+.driverbutton {
+    font-size: 40px;
+
+}
+
+.navbutton {
+    font-size: 40px;
+}
+
+.pagetwo {
+    display: none;
+}
+
+.drivertest {
+    display: none;
+}
+
+.navtest {
+    display: none;
+}
+
+.imgOne {
+  width: 5px;
+  display:none;
+}
+
+.driverOne {
+    font-size: 25px;
+}
+
+.driverTwo {
+    font-size: 25px;
+}
+
+.driverThree {
+    font-size: 25px;
+}
+.yellowLight {
+ width: 250px;   
+}
+
+.navOne {
+ font-size: 25px;   
+}
+
+.navTwo {
+ font-size: 25px;   
+}
+.navThree {
+ font-size: 25px;   
+}
+.searsTower { 
+    width: 250px;
+}
+.winPage {
+    display: none;
+}
+.treasure {
+    width: 250px;
+}
